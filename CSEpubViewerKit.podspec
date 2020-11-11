@@ -11,7 +11,7 @@ An open source epub reader plugin written in swift
   s.homepage         = 'https://github.com/hvmien/EpubViewerKit.git'
   s.license          = "MIT"
   s.author           = { 'Mien Hoang' => 'hvmien93@gmail.com' }
-  s.source           = { :git => 'https://github.com/hvmien/EpubViewerKit.git', :tag=>'0.1.2' }
+  s.source           = { :git => 'https://github.com/hvmien/EpubViewerKit.git', :tag=>'0.1.3' }
   
   s.swift_version = '4.2'
   s.requires_arc  = true
