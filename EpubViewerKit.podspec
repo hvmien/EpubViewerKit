@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'EpubViewerKit'
+  s.name             = 'CSEpubViewerKit'
   s.version          = '0.1.2'
   s.summary          = 'A epub reader flutter plugin project.'
   s.description      = <<-DESC
@@ -10,7 +10,7 @@ An open source epub reader plugin written in swift
                        DESC
   s.homepage         = 'https://github.com/hvmien/EpubViewerKit.git'
   s.license          = "MIT"
-  s.author           = { 'jideguru' => 'guruliciousjide@gmail.com' }
+  s.author           = { 'Mien Hoang' => 'hvmien93@gmail.com' }
   s.source           = { :git => 'https://github.com/hvmien/EpubViewerKit.git', :tag=>'0.1.2' }
   
   s.swift_version = '4.2'
